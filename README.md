@@ -32,3 +32,7 @@ The bridge will make a PUT request to the specified url with a payload like the 
   {"id": "1", "value":"80"},
   {"id": "10", "value":"25.4"}
 ]`
+
+
+## Credits
+Big thanks to knolleary for the parsing code: https://gist.github.com/knolleary/900885
